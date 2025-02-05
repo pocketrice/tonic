@@ -6,7 +6,7 @@ _Pentatonic paradise ~ ♫ ♪_
 ![tonicm](https://github.com/user-attachments/assets/7f82705e-1399-473c-9fec-96d5958973e1)
 ![artists](https://github.com/user-attachments/assets/bc37a3bf-14c7-4343-83bd-224cac125617)
 ![tonic2](https://github.com/user-attachments/assets/ac8a6dad-a0b5-4142-b356-216be354cee4)
-![albums](https://github.com/user-attachments/assets/34283296-0584-4866-b390-979faaa682c9)
+![albums](https://github.com/user-attachments/assets/e1dc7f0a-f0bb-4b8f-8d30-a88e20c98388)
 ![tonic1](https://github.com/user-attachments/assets/8d0f4e51-8af1-4c84-98cc-1cd0fca9c46d)
 
 
