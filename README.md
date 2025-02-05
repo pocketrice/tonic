@@ -8,7 +8,7 @@ _Pentatonic paradise ~ ♫ ♪_
 ![tertiary ui](https://github.com/user-attachments/assets/c1f9ce4e-7dca-47f1-bc72-a8cd20856ade)
 
 
-Yet another self-hosted Spotify clone for audiophiles! Own your music, as you should.
+> "A tiny flask to cure your freedom to curate, collect, cherish music"
 
 A modular approach to music... keep the convenience of streaming sans all the bad of Spotify (podcasts, ghost artists, etc) while recentering focus on the quaint joys of self-curating a music library.
 
