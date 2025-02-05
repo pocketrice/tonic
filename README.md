@@ -1,4 +1,5 @@
 # tonic
+_Pentatonic paradise_
 Yet another self-hosted Spotify clone for audiophiles!
 
 A modular approach to music... keep the convenience of streaming sans all the bad of Spotify (podcasts, ghost artists, etc) while recentering focus on the quaint joys of self-curating a music library.
