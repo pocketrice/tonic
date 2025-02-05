@@ -28,6 +28,8 @@ Finer volume tuning (plus control output volume from any device — finally)
 
 A free Scrap for your Mac corkboard!
 
+...finally set your default landing page, instead of the homepage. Which speaking of, has suddenly disappeared (thank god)!
+
 Oh, and library syncing across all devices a là Warppipe! 
 
 Also, skip locking for those who subconsciously skip for their preferred tunes but wish to not do so.
