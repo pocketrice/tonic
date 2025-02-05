@@ -5,7 +5,7 @@ _Pentatonic paradise ~ ♫ ♪_
 
 ![main ui](https://github.com/user-attachments/assets/fa490684-aca5-4877-a399-3ffc2eb1dd58)
 
-Yet another self-hosted Spotify clone for audiophiles!
+Yet another self-hosted Spotify clone for audiophiles! Own your music, as you should.
 
 A modular approach to music... keep the convenience of streaming sans all the bad of Spotify (podcasts, ghost artists, etc) while recentering focus on the quaint joys of self-curating a music library.
 
@@ -15,7 +15,20 @@ Supports LCD/dot-matrix music panes! Marquees everywhere! Raycast menubar elemen
 
 Plus free support for smwc2wav and a Forge/Fabric Craftify clone!
 
+Better stats, actually competent Wrapped, finer track scrubbing, djay-styled mixing and scratching, Genkhord, quick account switching, support for ALL files and playlists to show in friends! 
+
+Audio visualizers galore, support for bias lighting, radios (filter for mood, genre, etc.), so many audio FX... plus use Flask for an audio stream anywhere you want!
+
+And a complementary "mute sanity check" to boot!
+
+Finer volume tuning (plus control output volume from any device — finally)
+
+A free Scrap for your Mac corkboard!
+
 Oh, and library syncing across all devices a là Warppipe! 
 
 Also, skip locking for those who subconsciously skip for their preferred tunes but wish to not do so.
 
+<hr>
+
+**❰ 24:27:30:36:40 ❱ ~ a principle and matter of harmony**
