@@ -4,9 +4,10 @@ _Pentatonic paradise ~ ♫ ♪_
 
 
 ![main ui](https://github.com/user-attachments/assets/fa490684-aca5-4877-a399-3ffc2eb1dd58)
-![second ui](https://github.com/user-attachments/assets/7bf79bf6-8751-46d3-9c93-f8f2ce50fb99)
-![tertiary ui](https://github.com/user-attachments/assets/c1f9ce4e-7dca-47f1-bc72-a8cd20856ade)
 ![profile mockup](https://github.com/user-attachments/assets/c583cae4-81cb-4cbf-a191-e6a2b9b56e06)
+![tertiary ui](https://github.com/user-attachments/assets/c1f9ce4e-7dca-47f1-bc72-a8cd20856ade)
+![artists](https://github.com/user-attachments/assets/8570e38b-45df-42fa-a60e-428f6639cb91)
+![second ui](https://github.com/user-attachments/assets/7bf79bf6-8751-46d3-9c93-f8f2ce50fb99)
 
 
 
