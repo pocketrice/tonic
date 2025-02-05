@@ -3,15 +3,18 @@
 _Pentatonic paradise ~ ♫ ♪_
 
 
-![main ui](https://github.com/user-attachments/assets/fa490684-aca5-4877-a399-3ffc2eb1dd58)
+![tonicm](https://github.com/user-attachments/assets/7f82705e-1399-473c-9fec-96d5958973e1)
 ![profile mockup](https://github.com/user-attachments/assets/c583cae4-81cb-4cbf-a191-e6a2b9b56e06)
-![tertiary ui](https://github.com/user-attachments/assets/c1f9ce4e-7dca-47f1-bc72-a8cd20856ade)
-![artists](https://github.com/user-attachments/assets/8570e38b-45df-42fa-a60e-428f6639cb91)
-![second ui](https://github.com/user-attachments/assets/7bf79bf6-8751-46d3-9c93-f8f2ce50fb99)
+![tonic2](https://github.com/user-attachments/assets/ac8a6dad-a0b5-4142-b356-216be354cee4)
+![Screenshot 2025-02-05 at 02 49 18](https://github.com/user-attachments/assets/bc37a3bf-14c7-4343-83bd-224cac125617)
+![tonic1](https://github.com/user-attachments/assets/8d0f4e51-8af1-4c84-98cc-1cd0fca9c46d)
 
 
+<br>
 
-> "A tiny flask to cure your freedom to curate, collect, cherish music"
+> "A tiny flask of joy to revitalize your spirit to curate, collect, cherish music"
+
+<br>
 
 A modular approach to music... keep the convenience of streaming sans all the bad of Spotify (podcasts, ghost artists, etc) while recentering focus on the quaint joys of self-curating a music library.
 
@@ -28,6 +31,8 @@ Audio visualizers galore, support for bias lighting, radios (filter for mood, ge
 And a complementary "mute sanity check" to boot!
 
 Finer volume tuning (plus control output volume from any device — finally)
+
+Smarter song tracking... finally, no more agony in waiting for files to register, having to replace outdated metadata files, being cursed by incorrect capitalization...
 
 A free Scrap for your Mac corkboard!
 
