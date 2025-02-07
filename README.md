@@ -26,6 +26,10 @@ Plus free support for smwc2wav and a Forge/Fabric Craftify clone!
 
 Better stats, actually competent Wrapped, finer track scrubbing, djay-styled mixing and scratching, Genkhord, quick account switching, support for ALL files and playlists to show in friends! 
 
+Customize your clients — parallel, handoff, or "singleton" playback!
+
+Winamp/Spicetify/TUI repaints available!!
+
 Audio visualizers galore, support for bias lighting, radios (filter for mood, genre, etc.), so many audio FX... plus use Flask for an audio stream anywhere you want!
 
 And a complementary "mute sanity check" to boot!
