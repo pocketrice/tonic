@@ -28,6 +28,8 @@ Better stats, actually competent Wrapped, finer track scrubbing, djay-styled mix
 
 Customize your clients — parallel, handoff, or "singleton" playback!
 
+Musician? Embed any VST, use a suite of efficient music annotation/analysis tools, and use Tonic as a first-class tracker! Plays virtually any audio format under the sun (yes, even .spc!)
+
 Winamp/Spicetify/TUI repaints available!!
 
 Short-wave radio support akin to radio.garden and WebSDR! 
