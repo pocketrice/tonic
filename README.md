@@ -20,7 +20,7 @@ A modular approach to music... keep the convenience of streaming sans all the ba
 
 Supports LCD/dot-matrix music panes! Marquees everywhere! Raycast menubar element! Tools for NAS setups! All audio format support! CD-quality music anywhere, anytime! Plus, a dash of freedom to explore and discover new music of your choosing anywhere (not just Top 100s, but VGMs, obscure LPs, etc.)
 
-...plus vim keybinds, built-in kid3, VOX-like track quality labels, Spek profiling, effortless file conversion, and ye olde players (vinyls, CDs, cassettes)!
+...plus vim keybinds, built-in kid3, VOX-like track quality labels, Spek profiling, effortless file conversion, and ye olde players (vinyls, CDs, cassettes) with medium-accurate playback!
 
 Plus free support for smwc2wav and a Forge/Fabric Craftify clone!
 
@@ -29,6 +29,8 @@ Better stats, actually competent Wrapped, finer track scrubbing, djay-styled mix
 Customize your clients — parallel, handoff, or "singleton" playback!
 
 Winamp/Spicetify/TUI repaints available!!
+
+Short-wave radio support akin to radio.garden and WebSDR! 
 
 Audio visualizers galore, support for bias lighting, radios (filter for mood, genre, etc.), so many audio FX... plus use Flask for an audio stream anywhere you want!
 
