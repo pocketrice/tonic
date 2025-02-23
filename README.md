@@ -28,6 +28,8 @@ Better stats, actually competent Wrapped, finer track scrubbing, djay-styled mix
 
 Customize your clients — parallel, handoff, or "singleton" playback! Queue songs separately, play them in sync (in case you're rendering @ 5am)...
 
+Yumetool! (speed, loop, fade in/out, mixing a lá [naked flames](https://www.youtube.com/watch?v=X2LywVc39aI&t=2417s))
+
 Make Flasks, which ~~are really just fancy playlists~~ lets you collect different pools of music that play with different criteria (times of day, schedule, toggles... limitless possibility!) whilst not requiring strenuous management of many playlists. Your mood, music taste, and atmosphere shift all the time, so why should your playlists stay static?
 
 Embeddable miniplayer built with more of the good stuff (web components, lightweight, all resources pack-in) and less of the BS (DRM, flashy watermarks, 400kb library bloat)...
