@@ -38,7 +38,9 @@ Musician? Embed any VST, use a suite of efficient music annotation/analysis tool
 
 Winamp/Spicetify/TUI repaints available!!
 
-Short-wave radio support akin to radio.garden and WebSDR! Plus, radio commentary/"ads" (of your choosing... Cerveza Cristal!) if you so desire
+Short-wave radio support akin to radio.garden and WebSDR! Now includes funky DJ Professor K mode if you so desire.
+
+Bumpers and ad breaks! Disable and enable to your choosing — nothing monetary, only for your enjoyment.
 
 Audio visualizers galore, support for bias lighting, radios (filter for mood, genre, etc.), so many audio FX... plus use Funnel for an audio stream anywhere you want!
 
