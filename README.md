@@ -22,6 +22,9 @@ Supports LCD/dot-matrix music panes (try the official Raspberry Soda build)! Mar
 
 ...plus vim keybinds, built-in kid3, VOX-like track quality labels, Spek profiling, effortless file conversion, and ye olde players (vinyls, CDs, cassettes) with medium-accurate playback!
 
+Built off of styui for unobtrusively stylish flair! 
+
+
 Plus free support for smwc2wav and a Forge/Fabric Craftify clone!
 
 Better stats, actually competent Wrapped, finer track scrubbing, djay-styled mixing and scratching, Genkhord, quick account switching, support for ALL files and playlists to show in friends! 
@@ -31,6 +34,10 @@ Customize your clients — parallel, handoff, or "singleton" playback! Queue son
 Yumetool! (speed, loop, fade in/out, mixing a lá [naked flames](https://www.youtube.com/watch?v=X2LywVc39aI&t=2417s))
 
 Make Flasks, which ~~are really just fancy playlists~~ lets you collect different pools of music that play with different criteria (times of day, schedule, toggles... limitless possibility!) whilst not requiring strenuous management of many playlists. Your mood, music taste, and atmosphere shift all the time, so why should your playlists stay static?
+
+Other drinks you can make too... merge, dilute, sift playlists quickly into temporary Vials that won't clutter your lists. Augment any Mix into a neat lil' Teabag that comes with adaptive color and Infuse for a certain time to naturally collect additional songs based on what you play to retain a feel. Emulate the feeling of a nice 'ccino (or whichever drink you prefer based on what songs you pick!) with the Mixificator! _Best enjoyed in nice and hot chains._
+
+It's FB2K built right in... the Tonicon (Tonic transcoder) works with virtually any file and can losslessly convert on a whim. 
 
 Embeddable miniplayer built with more of the good stuff (web components, lightweight, all resources pack-in) and less of the BS (DRM, flashy watermarks, 400kb library bloat)...
 
