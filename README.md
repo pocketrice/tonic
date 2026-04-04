@@ -13,7 +13,7 @@ _Pentatonic paradise ~ ♫ ♪_
 
 <br>
 
-**Everything on this page is planning/mockups, nothing is ready yet!!**
+***...everything on this page is planning/references, nothing is ready yet!!***
 
 
 A modular approach to music written in SBCL/Rust... keep the convenience of streaming sans all the bad of Spotify (podcasts, ghost artists, etc) while recentering focus on the quaint joys of self-curating a music library.
