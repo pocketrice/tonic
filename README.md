@@ -7,4 +7,4 @@ _Pentatonic paradise ~ ♫ ♪_
 ![spicetify1](https://github.com/user-attachments/assets/bc37a3bf-14c7-4343-83bd-224cac125617)
 ▲ references
 
-A work-in-progress personal music player inspired by `ncmpcpp`/`mpd`/`mpc` and Spicetify!
+A work-in-progress personal music player inspired by `ncmpcpp`/`mpd`/`mpc`, Winamp, Spicetify, cassette players, and tea infusion!
